@@ -2,7 +2,7 @@
 
 This project automates the deployment of an AI chatbot application on AWS using Terraform and validates its functionality with Playwright end-to-end tests via GitHub Actions CI/CD.
 
-## ✨ Features
+##  Features
 
 - Terraform	  Automates AWS infrastructure deployment
 - Playwright	Runs end-to-end web tests
